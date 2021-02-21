@@ -1,3 +1,3 @@
 # integration_numeric
 Numerical integration procedures:
-Gauss-Legendre (1-3 point).
+Gauss-Legendre quadrature (1-4 points).
